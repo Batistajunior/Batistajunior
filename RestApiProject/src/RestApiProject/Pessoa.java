@@ -12,5 +12,5 @@ public class Pessoa {
 		this.nome = nome;
 	}
 
-	private Sobrenome
+	private Sobrenome;
 }
